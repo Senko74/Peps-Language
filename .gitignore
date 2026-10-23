@@ -1,0 +1,10 @@
+
+*.obj
+*.exe
+*.lnk
+*.pdb
+*.ilk
+
+compiled.asm
+
+__pycache__/
